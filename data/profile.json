@@ -33,7 +33,7 @@
         },
         {
           "name": "GeoServer",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/gegoserver.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/geoserver.png"
         }
       ],
       "softSkills": [
@@ -63,17 +63,13 @@
       {
         "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia - Ministério da Defesa ",
         "period": "2022 - atualmente",
-        "description": "xxxxxx"
+        "description": "Atuo como desenvolvedor Full-Stack, mas principalmente usando a linguagem JS"
       },
       {
-        "name": "xxxx",
-        "period": "2021 - 2022",
-        "description": "xxxx"
-      },
-      {
-        "name": "xxxx",
-        "period": "2016 - 2021",
-        "description": "xxxxxx"
+        "name": "Força Aérea Brasileira",
+        "period": "2013 - 2019",
+        "description": "Atuei na Infraestrutura (linux), serviços de Backups (ShellScripts) e Redes "
       }
+      
     ]
   } 
