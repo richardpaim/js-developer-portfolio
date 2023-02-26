@@ -1,5 +1,5 @@
 {
-    "name": "Richard P D Ribeio",
+    "name": "Richard P D Ribeiro",
     "photo": "https://avatars.githubusercontent.com/u/13837447?v=4",
     "job": "Força Aérea Brasileira - Ministério da Defesa",
     "location": "Brasília - DF",
@@ -8,28 +8,32 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/html.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/css.png"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/js.png"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-        },
-        {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/php.png"
+        },        
         {
           "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/postgresql.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/git.png"
+        },
+        {
+          "name": "GeoServer",
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/gegoserver.png"
         }
       ],
       "softSkills": [
@@ -57,8 +61,8 @@
     ],
     "professionalExperience": [
       {
-        "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia ",
-        "period": "xxxxxxx",
+        "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia - Ministério da Defesa ",
+        "period": "2022 - atualmente",
         "description": "xxxxxx"
       },
       {
