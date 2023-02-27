@@ -30,11 +30,8 @@
         {
           "name": "Git",
           "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/git.png"
-        },
-        {
-          "name": "GeoServer",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/geoServer.png"
         }
+      
       ],
       "softSkills": [
         "Empatia",
