@@ -33,7 +33,7 @@
         },
         {
           "name": "GeoServer",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/geoserver.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/geoServer.png"
         }
       ],
       "softSkills": [
@@ -57,13 +57,22 @@
         "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
         "url": "https://github.com/richardpaim/curriculo-Online-JS",
         "github": true
+      },
+      {
+        "name": "Projeto Panorama - Censipam/MD",
+        "url": "https://panorama.sipam.gov.br/panorama/pages/index.php"
+      },
+      {
+        "name": "Projeto Painel do Fogo - Censipam/MD",
+        "url": "https://panorama.sipam.gov.br/painel-do-fogo/"
       }
+
     ],
     "professionalExperience": [
       {
         "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia - Ministério da Defesa ",
         "period": "2022 - atualmente",
-        "description": "Atuo como desenvolvedor Full-Stack, mas principalmente usando a linguagem JS"
+        "description": "Atuo como desenvolvedor Full-Stack"
       },
       {
         "name": "Força Aérea Brasileira",
