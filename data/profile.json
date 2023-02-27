@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/html.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/html.png"
         },
         {
           "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/css.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/js.png"
         },
         {
           "name": "PHP",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/php.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/php.png"
         },        
         {
           "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/postgresql.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/postgresql.png"
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/richardpaim/curriculo-Online-JS/main/data/imgs/git.png"
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/git.png"
         }
       
       ],
@@ -52,7 +52,7 @@
       },
       {
         "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/richardpaim/curriculo-Online-JS",
+        "url": "https://github.com/richardpaim/js-developer-portfolio",
         "github": true
       },
       {
